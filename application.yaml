@@ -11,7 +11,7 @@ spec:
     targetRevision: HEAD
     path: dev
   destination: 
-    server: https://135.104.238.146:6443
+    server: https://135.104.238.119:6443
     namespace: default
   syncPolicy:
     automated:
