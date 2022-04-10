@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/anilnokia/tutorial1.git
+    repoURL: https://github.com/anilnokia/nana.git
     targetRevision: HEAD
     path: dev
   destination: 
